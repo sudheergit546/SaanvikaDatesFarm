@@ -1,0 +1,127 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Saanvika Dates Farm</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+								<header id="header">
+									<a href="index.html" class="logo"><strong>Saanika Dates Farm</strong></a>
+									<ul class="icons">
+										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+									</ul>
+								</header>
+
+							<!-- Banner -->
+								<section id="banner">
+									<div class="content">
+										<header>
+											<h1> Saanvika Dates Nursery cultivates over 35 varieties of luscious date fruit</h1>
+										</header>
+										<p>We grow date palms by adopting tissue culture technology, which enables farmers to select only the best trees as every plant produced from the cut stem is genetically identical to the parent tree.</p>
+										<ul class="actions">
+											<li><a href="#" class="button big">Learn More</a></li>
+										</ul>
+									</div>
+									<span class="image object">
+										<img src="images/pic10.jpg" alt="" />
+									</span>
+								</section>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Cultivation</h2>
+									</header>
+									<div class="features">
+										<article>
+											<span class="icon fa-gem"></span>
+											<div class="content">
+												<h3>Growing Local</h3>
+												<p>Date varities have been grown over decades in different across the world. At Saanvika Dates Nursery, we grow date palms by adopting tissue culture technology, which enables farmers to select only the best trees as every plant produced from the cut stem is genetically identical to the parent tree.Today, Saanvika Dates Nursery cultivates over 35 varieties of luscious date fruit. We believe in the power of growing local, to support our local communities, giving back and reducing carbon footprint.</p>
+											</div>
+										</article>
+										<article>
+											<span class="icon solid fa-paper-plane"></span>
+											<div class="content">
+												<h3>Date Palms</h3>
+												<p>Date palms are known to be amongst one of the most ancient plants that have existed. Many classical religious texts make reference to the date palm and attribute it with numerous benefits and qualities.Today, date palms are cultivated in many countries across the world. In India, commercial cultivation of dates can be found in the Kachchh region of Gujarat. There are close to two million palms producing 85,000 tonnes of fresh date fruits. Due to India’s monsoon weather patterns, date palms are usually harvested at a relatively early stage resulting in a unique variety. </p>
+											</div>
+										</article>
+									</div>
+								</section>
+
+							<!-- Section -->
+								
+
+						</div>
+					</div>
+
+				<!-- Sidebar -->
+					<div id="sidebar">
+						<div class="inner">
+
+							<!-- Search -->
+								<section id="search" class="alt">
+									<form method="post" action="#">
+										<input type="text" name="query" id="query" placeholder="Search" />
+									</form>
+								</section>
+
+							<!-- Menu -->
+								<nav id="menu">
+									<header class="major">
+										<h2>Menu</h2>
+									</header>
+									<ul>
+										<li><a href="index.html">Homepage</a></li>
+										<li><a href="generic.html">Products</a></li>
+										<li><a href="elements.html">Gallery</a></li>
+									</ul>
+								</nav>
+
+							<!-- Section -->
+								<section>
+									<header class="major">
+										<h2>Get in touch</h2>
+									</header>
+									<ul class="contact">
+										<li class="icon solid fa-envelope"><a href="#">sudheerreddy46@gmail.com</a></li>
+										<li class="icon solid fa-phone">980000009</li>
+										<li class="icon solid fa-home">Kavali, Nellore<br />
+										Andhra Pradesh</li>
+									</ul>
+								</section>
+
+							<!-- Footer -->
+								<footer id="footer">
+									<p class="copyright">&copy; SudheerSDR. All rights reserved.</p>
+								</footer>
+
+						</div>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
